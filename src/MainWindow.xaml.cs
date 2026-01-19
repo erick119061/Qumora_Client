@@ -20,7 +20,7 @@ namespace CanaryLauncherUpdate
 {
 	public partial class MainWindow : Window
 	{
-		static string launcerConfigUrl = "https://github.com/erick119061/Qumora_Client/blob/main/launcher_config.json";
+		static string launcerConfigUrl = "https://raw.githubusercontent.com/erick119061/Qumora_Client/main/launcher_config.json";
 		// Load informations of launcher_config.json file
 		static ClientConfig clientConfig = ClientConfig.loadFromFile(launcerConfigUrl);
 
