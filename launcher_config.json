@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Qumora",
-	"newClientUrl" : "https://github.com/erick119061/Qumora_Client/releases/download/V2/Qumora.zip",
+	"newClientUrl" : "https://github.com/erick119061/Qumora_Client/releases/download/V3/Qumora.zip",
 	"clientExecutable": "client.exe"
 }
