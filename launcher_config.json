@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "QumoraV1",
-	"newClientUrl" : "https://github.com/erick119061/Qumora_Client/releases/download/V1/Qumora.Rook.Valley.V1.rar",
+	"newClientUrl" : "https://github.com/erick119061/Qumora_Client/archive/refs/tags/V1.zip",
 	"clientExecutable": "client.exe"
 }
